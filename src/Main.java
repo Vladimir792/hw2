@@ -51,8 +51,6 @@ public class Main {
         System.out.println(massdifference);
 
         System.out.println("задание 7");
-        boxer1Weight = 78.2;
-        boxer2Weight = 82.7;
         var remainderofdivision = boxer2Weight % boxer1Weight;
         System.out.println(remainderofdivision);
 
